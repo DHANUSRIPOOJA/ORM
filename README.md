@@ -4,7 +4,6 @@
 ## Date: 11.04.2025
 
 
-
 ## AIM
 To develop a Django application to store and retrieve data from a Movies Database using Object Relational Mapping(ORM).
 
